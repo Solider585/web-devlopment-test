@@ -1,0 +1,26 @@
+.rounded {
+    width: 500px;
+    height: 500px;
+}
+.img-thumbnail {
+    width: 500px;
+    height: 500px;
+}
+.makeBlue{
+  color:blue;
+  font-weight:bold;
+}
+.makeRed{
+  color:red;
+  font-weight:bold;
+}
+.cent{
+    text-align: center;
+}
+.row{
+  list-style-position: inside;
+  text-align:left;
+}
+.col-sm{
+  text-align: inherit;
+}
