@@ -1,0 +1,13 @@
+.ema {
+    width: 500px;
+    height: 500px;
+}
+.jack {
+    width: 500px;
+    height: 500px;
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
